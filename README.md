@@ -1,1 +1,2 @@
 # hello-world
+In Web Design, my aim is to create websites that are aesthetically pleasing but also user-friendly and accessible. Through my websites, I want to deliver innovative and creative ideas which will leave a memorable online experience for users across diverse platforms and devices.
